@@ -2,23 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f9e1852-2599-461f-be16-b656d1231e5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoalForOffer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Six.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeLinkNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eighteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fifteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fourteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nineteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SevenTeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sixteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thirteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thirty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Twelve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Twenty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentyNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentyTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +40,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gfuI3T3PnahMtAbs4i6IGGcEW5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TwentyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwentyNine" />
+      <module name="GoalForOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwentyNine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,12 +83,60 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1599205885317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599205885317" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1599205885317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599205885317" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1599205885317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599205885317" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1599205885317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599205885317" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599205885317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599205885317" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599205885317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599205885317" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599205885317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599205885317" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599205885317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599205885317" />
     <state x="683" y="200" width="672" height="678" key="search.everywhere.popup" timestamp="1598699684973">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="683" y="200" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1598699684973" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwentyNine.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwentyNine.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
