@@ -2,24 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f9e1852-2599-461f-be16-b656d1231e5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Forty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FortyFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FortyOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FortyOnePlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FortyTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtySeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtySix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classical/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classical/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goalForOffer/Fifty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goalForOffer/FiftyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goalForOffer/FiftyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goalForOffer/FiftyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goalForOffer/FortyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goalForOffer/FortyNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goalForOffer/FortySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goalForOffer/FortySix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Eight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Eighteen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Eleven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Fifteen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Five.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Four.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Fourteen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Nine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Nineteen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/One.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Seven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/SevenTeen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Six.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Sixteen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Thirteen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Thirty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/ThirtyOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/ThirtyTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Three.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TreeLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Twelve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Twenty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TwentyEight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TwentyFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TwentyFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TwentyNine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TwentyOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TwentySeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TwentySix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TwentyThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/TwentyTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/Two.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoalForOffer/ten.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Forty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/Forty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FortyFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/FortyFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FortyOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/FortyOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FortyOnePlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/FortyOnePlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FortyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/FortyTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RandomListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/RandomListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtyEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/ThirtyEight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtyFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/ThirtyFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtyFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/ThirtyFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtyNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/ThirtyNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtyOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/ThirtyOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/ThirtySeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/ThirtySix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtyThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/ThirtyThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/goalForOffer/ThirtyTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +88,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.SpiralMatrix">
+  <component name="RunManager" selected="Application.FortyEight">
+    <configuration name="FortyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goalForOffer.FortyEight" />
+      <module name="GoalForOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classical.SpiralMatrix" />
       <module name="GoalForOffer" />
@@ -68,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FortyEight" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.TwentyNine" />
       </list>
@@ -92,29 +142,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="09.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="09.04" />
+    <MESSAGE value="09.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="09.15" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1599208702826">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1600175488644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599208702826" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600055071648">
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600175488644" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600318485226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600055071648" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600055071647">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600318485226" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600318485226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600055071647" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600055071647">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600318485226" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600318485225">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600055071647" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600055071647">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600318485225" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600318485226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600055071647" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600318485226" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599531268721">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -131,29 +182,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599531268721" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599208707075">
+    <state x="653" y="279" width="428" height="266" key="MultipleFileMergeDialog" timestamp="1600175396201">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599208707075" />
+    <state x="653" y="279" width="428" height="266" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1600175396201" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600175503265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600175503265" />
     <state x="683" y="200" width="672" height="678" key="search.everywhere.popup" timestamp="1598699684973">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="683" y="200" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1598699684973" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TwentyNine.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TwentyNine.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
